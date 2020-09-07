@@ -1,0 +1,30 @@
+﻿
+@{
+    ViewBag.Title = "SignUp";
+}
+
+<h2>SignUp 
+    <br /> @ViewBag.Message</h2>
+
+<form method="POST" action="/Home/SaveAccount">
+
+    @Html.Raw(ViewBag.FirstNameStatus)
+    FirstName:<input type="text" name="firstname" />
+
+    @Html.Raw(ViewBag.LastNameStatus)
+    LastName:<input type="text" name="lastname" /><br />
+
+    @Html.Raw(ViewBag.EmailStatusMessage)
+
+    Email:<input type="text" name="emailaddress" /> <br />
+    @Html.Raw(ViewBag.PasswordStatus)
+    Password:<input type="password" name="password" /> <br />
+
+    Gender: 
+    Male<input type="radio" name="gender" value="Male" />
+    Female<input type="radio" name="gender" value="Female" />
+    Other<input type="radio" name="gender" value="Other" />
+         <br /> 
+
+    <input type="submit" />
+</form>

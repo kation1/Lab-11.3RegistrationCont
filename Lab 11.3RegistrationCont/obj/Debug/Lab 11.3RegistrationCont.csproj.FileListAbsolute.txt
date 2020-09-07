@@ -1,0 +1,79 @@
+C:\devbuild\week10\Lab 11.3RegistrationCont\Lab 11.3RegistrationCont\obj\Debug\Lab 11.3RegistrationCont.csprojAssemblyReference.cache
+C:\devbuild\week10\Lab 11.3RegistrationCont\Lab 11.3RegistrationCont\obj\Debug\Lab 11.3RegistrationCont.csproj.CoreCompileInputs.cache
+C:\devbuild\week10\Lab 11.3RegistrationCont\Lab 11.3RegistrationCont\bin\Lab 11.3RegistrationCont.dll.config
+C:\devbuild\week10\Lab 11.3RegistrationCont\Lab 11.3RegistrationCont\bin\Lab 11.3RegistrationCont.dll
+C:\devbuild\week10\Lab 11.3RegistrationCont\Lab 11.3RegistrationCont\bin\Lab 11.3RegistrationCont.pdb
+C:\devbuild\week10\Lab 11.3RegistrationCont\Lab 11.3RegistrationCont\bin\roslyn\csc.exe
+C:\devbuild\week10\Lab 11.3RegistrationCont\Lab 11.3RegistrationCont\bin\roslyn\csc.exe.config
+C:\devbuild\week10\Lab 11.3RegistrationCont\Lab 11.3RegistrationCont\bin\roslyn\csc.rsp
+C:\devbuild\week10\Lab 11.3RegistrationCont\Lab 11.3RegistrationCont\bin\roslyn\csi.exe
+C:\devbuild\week10\Lab 11.3RegistrationCont\Lab 11.3RegistrationCont\bin\roslyn\csi.exe.config
+C:\devbuild\week10\Lab 11.3RegistrationCont\Lab 11.3RegistrationCont\bin\roslyn\csi.rsp
+C:\devbuild\week10\Lab 11.3RegistrationCont\Lab 11.3RegistrationCont\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\devbuild\week10\Lab 11.3RegistrationCont\Lab 11.3RegistrationCont\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\devbuild\week10\Lab 11.3RegistrationCont\Lab 11.3RegistrationCont\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\devbuild\week10\Lab 11.3RegistrationCont\Lab 11.3RegistrationCont\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\devbuild\week10\Lab 11.3RegistrationCont\Lab 11.3RegistrationCont\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\devbuild\week10\Lab 11.3RegistrationCont\Lab 11.3RegistrationCont\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\devbuild\week10\Lab 11.3RegistrationCont\Lab 11.3RegistrationCont\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\devbuild\week10\Lab 11.3RegistrationCont\Lab 11.3RegistrationCont\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\devbuild\week10\Lab 11.3RegistrationCont\Lab 11.3RegistrationCont\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\devbuild\week10\Lab 11.3RegistrationCont\Lab 11.3RegistrationCont\bin\roslyn\Microsoft.Managed.Core.targets
+C:\devbuild\week10\Lab 11.3RegistrationCont\Lab 11.3RegistrationCont\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\devbuild\week10\Lab 11.3RegistrationCont\Lab 11.3RegistrationCont\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\devbuild\week10\Lab 11.3RegistrationCont\Lab 11.3RegistrationCont\bin\roslyn\System.AppContext.dll
+C:\devbuild\week10\Lab 11.3RegistrationCont\Lab 11.3RegistrationCont\bin\roslyn\System.Collections.Immutable.dll
+C:\devbuild\week10\Lab 11.3RegistrationCont\Lab 11.3RegistrationCont\bin\roslyn\System.Console.dll
+C:\devbuild\week10\Lab 11.3RegistrationCont\Lab 11.3RegistrationCont\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\devbuild\week10\Lab 11.3RegistrationCont\Lab 11.3RegistrationCont\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\devbuild\week10\Lab 11.3RegistrationCont\Lab 11.3RegistrationCont\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\devbuild\week10\Lab 11.3RegistrationCont\Lab 11.3RegistrationCont\bin\roslyn\System.Globalization.Calendars.dll
+C:\devbuild\week10\Lab 11.3RegistrationCont\Lab 11.3RegistrationCont\bin\roslyn\System.IO.Compression.dll
+C:\devbuild\week10\Lab 11.3RegistrationCont\Lab 11.3RegistrationCont\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\devbuild\week10\Lab 11.3RegistrationCont\Lab 11.3RegistrationCont\bin\roslyn\System.IO.FileSystem.dll
+C:\devbuild\week10\Lab 11.3RegistrationCont\Lab 11.3RegistrationCont\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\devbuild\week10\Lab 11.3RegistrationCont\Lab 11.3RegistrationCont\bin\roslyn\System.Net.Http.dll
+C:\devbuild\week10\Lab 11.3RegistrationCont\Lab 11.3RegistrationCont\bin\roslyn\System.Net.Sockets.dll
+C:\devbuild\week10\Lab 11.3RegistrationCont\Lab 11.3RegistrationCont\bin\roslyn\System.Reflection.Metadata.dll
+C:\devbuild\week10\Lab 11.3RegistrationCont\Lab 11.3RegistrationCont\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\devbuild\week10\Lab 11.3RegistrationCont\Lab 11.3RegistrationCont\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\devbuild\week10\Lab 11.3RegistrationCont\Lab 11.3RegistrationCont\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\devbuild\week10\Lab 11.3RegistrationCont\Lab 11.3RegistrationCont\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\devbuild\week10\Lab 11.3RegistrationCont\Lab 11.3RegistrationCont\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\devbuild\week10\Lab 11.3RegistrationCont\Lab 11.3RegistrationCont\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\devbuild\week10\Lab 11.3RegistrationCont\Lab 11.3RegistrationCont\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\devbuild\week10\Lab 11.3RegistrationCont\Lab 11.3RegistrationCont\bin\roslyn\System.ValueTuple.dll
+C:\devbuild\week10\Lab 11.3RegistrationCont\Lab 11.3RegistrationCont\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\devbuild\week10\Lab 11.3RegistrationCont\Lab 11.3RegistrationCont\bin\roslyn\System.Xml.XmlDocument.dll
+C:\devbuild\week10\Lab 11.3RegistrationCont\Lab 11.3RegistrationCont\bin\roslyn\System.Xml.XPath.dll
+C:\devbuild\week10\Lab 11.3RegistrationCont\Lab 11.3RegistrationCont\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\devbuild\week10\Lab 11.3RegistrationCont\Lab 11.3RegistrationCont\bin\roslyn\vbc.exe
+C:\devbuild\week10\Lab 11.3RegistrationCont\Lab 11.3RegistrationCont\bin\roslyn\vbc.exe.config
+C:\devbuild\week10\Lab 11.3RegistrationCont\Lab 11.3RegistrationCont\bin\roslyn\vbc.rsp
+C:\devbuild\week10\Lab 11.3RegistrationCont\Lab 11.3RegistrationCont\bin\roslyn\VBCSCompiler.exe
+C:\devbuild\week10\Lab 11.3RegistrationCont\Lab 11.3RegistrationCont\bin\roslyn\VBCSCompiler.exe.config
+C:\devbuild\week10\Lab 11.3RegistrationCont\Lab 11.3RegistrationCont\bin\Antlr3.Runtime.dll
+C:\devbuild\week10\Lab 11.3RegistrationCont\Lab 11.3RegistrationCont\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\devbuild\week10\Lab 11.3RegistrationCont\Lab 11.3RegistrationCont\bin\Microsoft.Web.Infrastructure.dll
+C:\devbuild\week10\Lab 11.3RegistrationCont\Lab 11.3RegistrationCont\bin\Newtonsoft.Json.dll
+C:\devbuild\week10\Lab 11.3RegistrationCont\Lab 11.3RegistrationCont\bin\System.Web.Helpers.dll
+C:\devbuild\week10\Lab 11.3RegistrationCont\Lab 11.3RegistrationCont\bin\System.Web.Mvc.dll
+C:\devbuild\week10\Lab 11.3RegistrationCont\Lab 11.3RegistrationCont\bin\System.Web.Optimization.dll
+C:\devbuild\week10\Lab 11.3RegistrationCont\Lab 11.3RegistrationCont\bin\System.Web.Razor.dll
+C:\devbuild\week10\Lab 11.3RegistrationCont\Lab 11.3RegistrationCont\bin\System.Web.WebPages.Deployment.dll
+C:\devbuild\week10\Lab 11.3RegistrationCont\Lab 11.3RegistrationCont\bin\System.Web.WebPages.dll
+C:\devbuild\week10\Lab 11.3RegistrationCont\Lab 11.3RegistrationCont\bin\System.Web.WebPages.Razor.dll
+C:\devbuild\week10\Lab 11.3RegistrationCont\Lab 11.3RegistrationCont\bin\WebGrease.dll
+C:\devbuild\week10\Lab 11.3RegistrationCont\Lab 11.3RegistrationCont\bin\System.Web.Helpers.xml
+C:\devbuild\week10\Lab 11.3RegistrationCont\Lab 11.3RegistrationCont\bin\System.Web.Mvc.xml
+C:\devbuild\week10\Lab 11.3RegistrationCont\Lab 11.3RegistrationCont\bin\System.Web.Optimization.xml
+C:\devbuild\week10\Lab 11.3RegistrationCont\Lab 11.3RegistrationCont\bin\System.Web.Razor.xml
+C:\devbuild\week10\Lab 11.3RegistrationCont\Lab 11.3RegistrationCont\bin\System.Web.WebPages.xml
+C:\devbuild\week10\Lab 11.3RegistrationCont\Lab 11.3RegistrationCont\bin\System.Web.WebPages.Deployment.xml
+C:\devbuild\week10\Lab 11.3RegistrationCont\Lab 11.3RegistrationCont\bin\System.Web.WebPages.Razor.xml
+C:\devbuild\week10\Lab 11.3RegistrationCont\Lab 11.3RegistrationCont\bin\Newtonsoft.Json.xml
+C:\devbuild\week10\Lab 11.3RegistrationCont\Lab 11.3RegistrationCont\bin\Antlr3.Runtime.pdb
+C:\devbuild\week10\Lab 11.3RegistrationCont\Lab 11.3RegistrationCont\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\devbuild\week10\Lab 11.3RegistrationCont\Lab 11.3RegistrationCont\obj\Debug\Lab 11.3RegistrationCont.csproj.CopyComplete
+C:\devbuild\week10\Lab 11.3RegistrationCont\Lab 11.3RegistrationCont\obj\Debug\Lab 11.3RegistrationCont.dll
+C:\devbuild\week10\Lab 11.3RegistrationCont\Lab 11.3RegistrationCont\obj\Debug\Lab 11.3RegistrationCont.pdb
