@@ -1,0 +1,33 @@
+﻿<link href="~/Content/myStyle.css" rel="stylesheet" type="text/css" />
+
+@model Lab_11._3RegistrationCont.Models.CoffeeOrder
+
+
+@{
+    ViewBag.Title = "Receipt";
+}
+
+<h2>Receipt</h2>
+
+
+Order Number: #001
+<br />
+
+Name: @Model.CustomerName
+<br />
+<h4>Order Details: <br />  </h4>
+
+<p>@Model.CoffeeType <br />  </p>
+<p>@Model.Size <br />  </p>
+<p>@Model.Pickup <br /></p>
+
+<br />
+<br />
+<br />
+
+<h4>Expected Order Time:</h4>
+@ViewBag.TimeMessage
+<br />
+
+
+

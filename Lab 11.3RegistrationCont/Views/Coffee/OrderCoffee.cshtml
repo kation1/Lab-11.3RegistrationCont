@@ -1,7 +1,58 @@
 ﻿
+    <link href="~/Content/myStyle.css" rel="stylesheet" type="text/css" />
+
 @{
     ViewBag.Title = "OrderCoffee";
 }
 
 <h2>OrderCoffee</h2>
 
+<form method="POST" action="/Coffee/Receipt">
+    <table>
+    <tr>
+        <td> Drink Selection:</td>
+         <td><select name="coffeeType">
+                <option value="Coffee">Basic Coffee</option>
+                <option value="mocha">Mocha</option>
+                <option value="espresso">Espresso</option>
+                <option value="tea">Tea</option>
+    </select></td>
+</tr>
+
+    
+
+    <tr> <td>
+    Coffee Size:</td> 
+        <td>
+    Small<input type="radio" name="size" value="small" />
+    Medium<input type="radio" name="size" value="medium" />
+    Large<input type="radio" name="size" value="large" />
+</td></tr>
+
+  
+
+        <tr>
+            <td>Delivery or Pickup:</td>
+
+    <td>
+    PickUp<input type="radio" name="service" value="pickup" />
+    <div class="reveal-if-active">
+        Pickup Time:
+        <select name="pickUpTime">
+            @for (int i = 0; i < 10; i++)
+            {
+                <option value="@DateTime.Now.AddMinutes(i*5)">@DateTime.Now.AddMinutes(i*5)</option>
+            }
+
+        </select>
+
+    </div></td></tr>
+        <tr><td>
+    </td>
+            <td>
+                Delivery<input type="radio" name="service" value="delivery" /> <br />   
+                Address:<input type="text" name="address" />
+            </td></tr>
+    <tr><td> <input type="submit" /></tr>
+        </table>
+</form>

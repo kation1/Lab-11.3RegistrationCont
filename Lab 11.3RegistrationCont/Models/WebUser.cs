@@ -13,5 +13,8 @@ namespace Lab_11._3RegistrationCont.Models
         public string LastName { get; set; }
 
         public string Gender { get; set; }
+        public string PhoneNumber { get; set; }
+
+        public DateTime Birthday { get; set; }
     }
 }

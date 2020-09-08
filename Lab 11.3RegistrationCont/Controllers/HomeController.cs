@@ -1,4 +1,4 @@
-﻿using System;
+﻿                            using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text.RegularExpressions;
@@ -15,9 +15,9 @@ namespace Lab_11._3RegistrationCont.Controllers
             return View();
         }
 
-        public ActionResult About()
+        public ActionResult Menu()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Menu= "Your application description page.";
 
             return View();
         }
@@ -59,7 +59,7 @@ namespace Lab_11._3RegistrationCont.Controllers
 
 
         [HttpPost]
-        public ActionResult SaveAccount(string firstname, string emailaddress,string password,string lastname, string gender)
+        public ActionResult SaveAccount(string firstname, string emailaddress,string password,string lastname, string gender, string phonenumber, DateTime birthday)
         {
             
             string emailcheck =   @"[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}$";
@@ -101,14 +101,15 @@ namespace Lab_11._3RegistrationCont.Controllers
             {
                 ViewBag.Message = "Not a valid Password";
                 PrepareSignUp();
-                ViewBag.LastNameStatus += "password must be between 3 and 20 characters. <br />";
+                ViewBag.PassWordStatus += "password must be between 3 and 20 characters. <br />";
                 return View("SignUP");
             }
 
 
 
 
-            WebUser user = new WebUser() { FirstName = firstname, Email = emailaddress, Password1 = password, LastName = lastname, Gender = gender };
+            WebUser user = new WebUser() { FirstName = firstname, Email = emailaddress, Password1 = password, LastName = lastname, Gender = gender, PhoneNumber = phonenumber, Birthday = birthday };
+            Session["tempCustomer"] = firstname;
             return View(user);
 
         }

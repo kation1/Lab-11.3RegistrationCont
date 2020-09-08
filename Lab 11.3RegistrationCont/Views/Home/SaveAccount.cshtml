@@ -1,8 +1,23 @@
-﻿@model Lab_11._3RegistrationCont.Models.WebUser
+﻿<link href="~/Content/myStyle.css" rel="stylesheet" type="text/css" />
+
+
+@model Lab_11._3RegistrationCont.Models.WebUser
 
 <h2> Save</h2>
-Welcome, @Model.FirstName 
-@Model.LastName !<br />
-Your email is @Model.Email<br />
-Your password is @Model.Password1<br />
-Your Gender is @Model.Gender <br />  
+Welcome, @Model.FirstName
+@Model.LastName !
+<br />
+Your email is @Model.Email
+<br />
+Your password is @Model.Password1
+<br />
+Your Gender is @Model.Gender
+<br />
+Your Phone Number is @Model.PhoneNumber.Substring(0, 3)-@Model.PhoneNumber.Substring(3, 3)-@Model.PhoneNumber.Substring(6)
+<br />
+
+Your Birthday is @Model.Birthday.ToShortDateString() <br /> <br />  
+
+
+
+<input type="button" value="Order Coffee" onclick="location.href='@Url.Action("OrderCoffee", "Coffee")'" />

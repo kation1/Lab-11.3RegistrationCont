@@ -1,0 +1,63 @@
+﻿/*.reveal-if-active {
+    opacity: 0;
+    max-height: 0;
+}
+
+
+input[type="radio"]:checked {
+    opacity: 1;
+    max-height: 100px;
+    transform: scale(1);
+    overflow: visible;
+}
+*/
+
+
+.navbar-inverse {
+    background-color: # aquamarine;
+}
+
+h2{
+    text-align: center;
+}
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+
+form {
+    font-family: verdana;
+    font-size: 20px;
+    align-content: center;
+}
+
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+ 
+}
+input[type=email] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+}
+input[type=tel] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+}
+input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+}
